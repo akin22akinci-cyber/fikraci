@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fıkracı</string>
+    <string name="app_tagline">Gülümsemenin En Eğlenceli Adresi</string>
+    <string name="tab_explore">Keşfet</string>
+    <string name="tab_categories">Kategoriler</string>
+    <string name="tab_ai">Yapay Zekâ</string>
+    <string name="tab_favorites">Favoriler</string>
+    <string name="tab_community">Topluluk</string>
+    <string name="action_share">Paylaş</string>
+    <string name="action_listen">Sesli Dinle</string>
+    <string name="action_favorite">Favoriye Ekle</string>
+    <string name="action_generate">Fıkra Üret</string>
+    <string name="action_add_joke">Yeni Fıkra Paylaş</string>
+</resources>
